@@ -1,7 +1,7 @@
 # jq-play.kak
 
 This is plugin to run JQ interactivly in kakoune. This was requested by
-[jbarins](https://discuss.kakoune.com/u/jbrains/summary) on the
+[jbrains](https://discuss.kakoune.com/u/jbrains/summary) on the
 [kakoune forum](https://discuss.kakoune.com/u/jbrains/summary) recently.
 
 Also this plugin is wery much WIP so please tell me if there is somthing
